@@ -1,0 +1,79 @@
+
+/*
+.rc-slider-handle {
+    margin-left: -15px !important;
+    margin-left: -7px;
+    margin-top: -5px;
+    width: 14px;
+    height: 14px;
+    cursor: pointer;
+    cursor: -webkit-grab;
+    cursor: grab;
+    border-radius: 50%;
+    border: solid 2px #ff0000 !important;
+    background-color: #fff;
+}
+*/
+
+.rc-slider-handle {
+    margin-left: -9px !important;
+    margin-left: -7px;
+    margin-top: -5px;
+    width: 25px !important;
+    height: 14px !important;
+    cursor: pointer;
+    cursor: -webkit-grab;
+    cursor: grab;
+    border-radius: 36% !important;
+    border: solid 0px #ff0000 !important;
+    background-color: #212529 !important;
+}
+
+/*
+.rc-slider-dot {
+    position: absolute;
+    bottom: -2px;
+    margin-left: -4px;
+    width: 13px !important;
+    height: 8px;
+    border: 2px solid #e9e9e9;
+    background-color: #57c5f7 !important;
+    cursor: pointer;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+*/
+
+.rc-slider-step {
+    background: #13131324 !important;
+}
+
+.rc-slider-dot {
+    margin-left: -3.5px;
+    width: 10px !important;
+    height: 1px !important;
+    border: 0px solid #212529 !important;
+    background-color: #0000003b !important;
+    border-radius: 2% !important;
+}
+
+
+.rc-slider-vertical .rc-slider-step {
+    height: 100%;
+    width: 6px !important;
+}
+
+.rc-slider-vertical .rc-slider-dot {
+    margin-bottom: -1px !important;
+}
+
+.toast {
+    max-width: 350px;
+    overflow: hidden;
+    font-size: .875rem;
+    margin-top: -180px !important;
+
+.ceron {
+    margin-right: 50px !important;
+
+}
