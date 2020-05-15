@@ -4,14 +4,14 @@ The BGP Tuner is a prototype graphical interface that presents the distribution 
 
 <img alt="bgp play" src="https://github.com/joaoceron/BGP-PLAYGROUND/blob/master/assets/bgpplay1.gif">
 
-<hr>
+
 
 ## License
-<hr>
+
 
 This project is distributed under the MIT, see LICENSE.
 
-Copyright <2020> <SIDN.nl>
+Copyright 2020, SIDN.nl
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
