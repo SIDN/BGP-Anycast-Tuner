@@ -9,7 +9,7 @@ The BGP Tuner is a prototype graphical interface that presents the distribution 
 ## License
 
 
-This project is distributed under the MIT, see LICENSE.
+This project is distributed under the MIT.
 
 Copyright 2020, SIDN.nl
 
